@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline on AWS
+# CI/CD Pipeline on AWS
 
 Build CI/CD pipelines with CodePipeline, CodeBuild, and CodeDeploy.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000123-CI-CD-Pipeline-On-AWS/)**
+**[Start the workshop](https://vanhoangkha.github.io/000123-CI-CD-Pipeline-On-AWS/)**
 
 ## Prerequisites
 
